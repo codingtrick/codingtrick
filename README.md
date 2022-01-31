@@ -8,7 +8,7 @@ I'm Himanshu R. Gupta a Full Stack Web Developer and Content Creator on [Youtube
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @E-Zest
+- 🔭 I’m currently working at @Cognizant
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: himanshurajeshgupta@gmail.com.
