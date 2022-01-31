@@ -4,7 +4,7 @@ I'm Himanshu R. Gupta a Full Stack Web Developer and Content Creator on [Youtube
 
 :mailbox: Reach me out!
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/himanshugupta9082/)
+[![Linked In](https://img.shields.io/badge/-Himanshu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugupta9082/)
 
 <!-- TODO: Add last video link -->
 
